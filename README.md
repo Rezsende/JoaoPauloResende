@@ -3,7 +3,7 @@
 
 -🐍 Principal Linguagem de Programação Python
 
--📕 Graduação em Analise e Desenvolvimento de Sistema, Termino do Curso Maio/2023 , Faculdade Unopar
+-📕 Graduado em Analise e Desenvolvimento de Sistema, Termino do Curso Junho/2023 , Faculdade Unopar
 
 -📱 Trabalho como desenvolvedor mobile com Flutter e Dart
 
