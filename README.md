@@ -1,9 +1,13 @@
 # Óla sou João Paulo Resende 
+- 💻 Desenvolvedor FullStack  C#, DotNet, ASP.NET MVC, WPF
+
+- 💻 Desenvolvedor FullStack  Node, Nestjs, Expressjs, React.js, React-Native.js, ORM: Prisma, TypeOrm
+
 -🎲 Atuo na area Data Scientist, IA
+  
+-🐍 Programação Python
 
--🐍 Principal Linguagem de Programação Python
-
--📕 Graduado em Analise e Desenvolvimento de Sistema, Termino do Curso Junho/2023 , Faculdade Unopar
+-📕 Graduado em Analise e Desenvolvimento de Sistema, ano Junho/2023 , Faculdade Unopar
 
 -📱 Trabalho como desenvolvedor mobile com Flutter e Dart
 
