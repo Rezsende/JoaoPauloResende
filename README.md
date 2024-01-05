@@ -1,9 +1,9 @@
-# Óla sou João Paulo Resende 
-- 💻 Desenvolvedor FullStack  C#, DotNet, ASP.NET MVC, WPF
+# Hello, I'm João Paulo João Paulo Resende Developer FullStack
+- 💻 Desenvolvedor Backend:  C#, DotNet Core | Node.js, Nest.js
 
-- 💻 Desenvolvedor FullStack  Node, Nestjs, Expressjs, React.js, React-Native.js, ORM: Prisma, TypeOrm
+- 💻 Desenvolvedor Frontend: React.js, React-Native.js, | Flutter
 
--🎲 Atuo na area Data Scientist, IA
+-🎲  Data Engineering | Data Scientist, IA with python 
   
 -🐍 Programação Python
 
