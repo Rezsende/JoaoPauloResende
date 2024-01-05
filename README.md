@@ -1,4 +1,4 @@
-# Hello, I'm João Paulo João Paulo Resende Developer FullStack
+# Hello, I'm João Paulo Resende Developer FullStack
 - 💻 Desenvolvedor Backend:  C#, DotNet Core | JavaScrypt,  Node.js, Nest.js
 
 - 💻 Desenvolvedor Frontend: React.js, React-Native.js, | Flutter
@@ -10,10 +10,10 @@
 
 -📕 postgraduate degree in data engineering | fullstack web development
 
-<div align="center">
+<div align="start">
   <a href="https://github.com/Rezsende">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rezsende&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezsende&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezsende&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -51,8 +51,10 @@
 
 ##
 
-<div> 
-   <a href = "jpresendejava@gmail.com"><img src="https://img.shields.io/badge/-instagran-%23333?style=for-the-badge&logo=instagran&logoColor=white" target="_blank"></a>
-  <a href = "jpresendejava@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jpjava-09a064147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5Q9izDl9SIqfu3gwhW%2BlzA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center"> 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href = ""> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jpjava-09a064147" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
+
