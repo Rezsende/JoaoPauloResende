@@ -1,15 +1,14 @@
 # Hello, I'm João Paulo João Paulo Resende Developer FullStack
-- 💻 Desenvolvedor Backend:  C#, DotNet Core | Node.js, Nest.js
+- 💻 Desenvolvedor Backend:  C#, DotNet Core | JavaScrypt,  Node.js, Nest.js
 
 - 💻 Desenvolvedor Frontend: React.js, React-Native.js, | Flutter
 
 -🎲  Data Engineering | Data Scientist, IA with python 
   
--🐍 Programação Python
 
--📕 Graduado em Analise e Desenvolvimento de Sistema, ano Junho/2023 , Faculdade Unopar
+-📕 Graduated in System Analysis and Development, year June/2023, Faculdade Unopar
 
--📱 Trabalho como desenvolvedor mobile com Flutter e Dart
+-📕 postgraduate degree in data engineering | fullstack web development
 
 <div align="center">
   <a href="https://github.com/Rezsende">
