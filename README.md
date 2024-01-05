@@ -21,7 +21,7 @@
  
       
             
-          
+      
           
   <img align="center" alt="Rafa-Ts" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Rafa-Ts" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
@@ -35,11 +35,12 @@
   <img align="center" alt="Rafa-Ts" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img align="center" alt="Rafa-Ts" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
   <img align="center" alt="Rafa-Ts" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" />
+
+  <img align="center" alt="Rafa-Ts" height="70" width="80" src="#512BD4" />
           
           
           
-          
-          
+                    
             
            
           
