@@ -30,19 +30,48 @@
       
             
       
-          
+  <img align="center" alt="Rafa-Ts" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
+    <img align="center" alt="Rafa-Ts" height="70" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Ts" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+          
+
+
+
+ 
+  
+  
+  
   <img align="center" alt="Rafa-Ts" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
   <img align="center" alt="Rafa-Ts" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
   <img align="center" alt="Rafa-Ts" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" />
   <img align="center" alt="Rafa-Ts" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
-  <img align="center" alt="Rafa-Ts" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+
+  
   <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  
   <img align="center" alt="Rafa-Ts" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
+ 
   <img align="center" alt="Rafa-Ts" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  
   <img align="center" alt="Rafa-Ts" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  
+  
   <img align="center" alt="Rafa-Ts" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+ 
+  
   <img align="center" alt="Rafa-Ts" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" />
+
+
+   
+      
+   <img align="center" alt="Rafa-Ts" height="70" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+
+   <img align="center" alt="Rafa-Ts" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+
+
+  
+           
+          
 
  
           
