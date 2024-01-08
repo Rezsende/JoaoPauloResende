@@ -44,7 +44,7 @@
   <img align="center" alt="Rafa-Ts" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
   <img align="center" alt="Rafa-Ts" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" />
 
-  <img align="center" alt="Rafa-Ts" height="70" width="80" src="#512BD4" />
+ 
           
           
           
